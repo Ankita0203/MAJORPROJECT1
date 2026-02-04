@@ -31,7 +31,11 @@ CSS3 – Styling and layout
 <h1>🧠 Skills Demonstrated</h1>
 
 ✔ Responsive Layout Design – Used HTML and CSS to build structured web pages
+
 ✔ Semantic HTML – Correct use of tags for accessibility and SEO
+
 ✔ CSS Styling – Custom styles to create an engaging visual presentation
+
 ✔ Navigation & UX – Built a coherent page flow for site visitors
+
 ✔ Project Organization – Multiple related files structured clearly
